@@ -1,0 +1,16 @@
+{
+  "name": "chat-bot",
+  "version": "1.0.0",
+  "description": "chat-bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "google-auth-library": "^8.7.0",
+    "googleapis": "^114.0.0"
+  }
+}
